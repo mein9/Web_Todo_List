@@ -1,7 +1,7 @@
 body {
   width: auto;
   background-color: rgb(244, 246, 246);
-  padding: 200px 100px;
+  padding: 100px 100px;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ button[type="submit"] {
   border-radius: 5px;
 }
 
-button[type="remove"] {
+button[type="button"] {
   background-color: red;
   color: white;
   border: none;
